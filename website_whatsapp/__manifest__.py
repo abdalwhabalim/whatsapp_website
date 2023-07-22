@@ -24,8 +24,7 @@
     'images': [
         'static/description/logo.png',
     ],
-    'currency': 'EUR',
-    'price': 29,
+ 
     'license': 'AGPL-3',
 
 }
